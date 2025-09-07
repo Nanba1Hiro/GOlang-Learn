@@ -11,7 +11,12 @@ My journey of learning Go — documenting notes, exercises, and small projects a
 - [Official Go Documentation](https://go.dev/doc/)  
 - [Go by Example](https://gobyexample.com/)  
 - [Tour of Go](https://go.dev/tour/)  
-- [Effective Go](https://go.dev/doc/effective_go)  
+- [Effective Go](https://go.dev/doc/effective_go)
+
+## 📂 Folder Structure
+- **exercises/** – practice tasks organized by topic  
+- **projects/** – small-to-medium personal projects  
+- **notes/** – snippets, reference materials, and study notes  
 
 ## ⚡Mantra
  **“GO beyond PLUS Ultra!”**
